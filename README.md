@@ -14,7 +14,10 @@ A simple Java console-based ticket booking system that simulates seat selection 
 - Command-line interface
 
 ## How to Run
+
 Clone the repository:
+
+```bash
 git clone https://github.com/moeoo-thidahtun/cinema-booking-system.git
 cd cinema-booking-system
 
