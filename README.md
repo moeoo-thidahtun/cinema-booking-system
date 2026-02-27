@@ -20,8 +20,10 @@ git clone https://github.com/moeoo-thidahtun/cinema-booking-system.git
 cd cinema-booking-system
 
 
-## Compile
-javac *.java
+## Build
+mvn clean package
 
 ## Run
-java CinemaBookingSystem
+mvn exec:java
+
+
